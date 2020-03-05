@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Yeyang Gu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Web Dev & Data Science Portfolio"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Informatics | UC Irvine 2020"
   location         : "Irvine, CA"
   email            : # 
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/yeyanggu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
